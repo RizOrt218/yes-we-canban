@@ -7,7 +7,7 @@
 ![screen shot 2016-03-31 at 9 03 02 pm](https://cloud.githubusercontent.com/assets/14135082/14200686/40d09cae-f788-11e5-9bc5-cb63a9126191.png)
 
 ###Overview 
-Yes-we-canban is a simple task board created by [Kent Salcedo](https://github.com/kentsalcedo) and [Riz Ortega](https://github.com/rizort218). Mongo, Express, AngularJS and NodeJS were the main components in building this web app. In addition, bootstrap and sass were used to style our KanBan!
+Yes-we-canban is a simple task board created by [Kent Salcedo](https://github.com/kentsalcedo) and [Riz Ortega](https://github.com/rizort218). Mongo, Express, AngularJS and NodeJS were the main components in building this web app. In addition, bootstrap and sass were used for styling.
 
 ###Usage
 1. Visit the deployed version at [Yes-We-CanBan](http://yes-we-canban.herokuapp.com/)
